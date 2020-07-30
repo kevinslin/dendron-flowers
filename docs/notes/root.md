@@ -20,8 +20,8 @@ hpath: root
 permalink: /
 ---
 
-# Root
+# Accidental Flower
 
-This is the root fo your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. 
+The flowers I would document if I were a bee 🐝
 
-Flowers
+![](/assets/images/2020-07-30-16-49-59.png)

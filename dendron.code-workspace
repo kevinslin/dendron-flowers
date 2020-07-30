@@ -14,7 +14,8 @@
         "markdown-preview-enhanced.enableWikiLinkSyntax": true,
         "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
         "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-        "vscodeMarkdownNotes.slugifyCharacter": "NONE"
+        "vscodeMarkdownNotes.slugifyCharacter": "NONE",
+        "pasteImage.prefix": "/"
     },
     "extensions": {
         "recommendations": [
