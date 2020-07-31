@@ -9,5 +9,3 @@ created: 1596153685818
 # Flowers
 
 This is where I keep track of flowers
-
-flower.morning-glory
