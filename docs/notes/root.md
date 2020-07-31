@@ -10,7 +10,6 @@ fname: root
 stub: false
 parent: null
 children:
-  - 6b28263e-7060-46aa-a4d5-d75fa3104f9e
   - 63751f1a-9f89-45eb-ac17-fcc49951c262
 hpath: root
 permalink: /
