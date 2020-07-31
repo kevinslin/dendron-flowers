@@ -9,4 +9,4 @@ created: 1596153464703
 # Anemone
 ![](/assets/images/2020-07-30-16-58-03.png)
 
-Anemone's are everywhere. In fact, did you know every flower was actually an amenome?
+Anemone's are everywhere. In fact, did you know every flower was actually an anemone
